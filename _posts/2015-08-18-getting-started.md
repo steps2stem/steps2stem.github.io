@@ -1,6 +1,6 @@
 ---
-title: "How to get started"
-bg: blue
+title: "Getting Started"
+bg: navy
 color: white
 style: center
 ---

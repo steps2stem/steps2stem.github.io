@@ -1,11 +1,11 @@
 ---
-title: "Resources"
-bg: blue
+title: "Presenters"
+bg: green
 color: white
 style: center
 ---
 
-# Resources
+# Meet the Presenters
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
