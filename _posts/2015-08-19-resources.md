@@ -1,7 +1,7 @@
 ---
 title: "Resources"
-bg: white
-color: orange
+bg: orange
+color: white
 style: center
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Role Models"
-bg: white
-color: green
+bg: green
+color: white
 style: center
 ---
 

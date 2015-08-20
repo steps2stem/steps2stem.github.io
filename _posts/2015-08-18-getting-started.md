@@ -1,7 +1,7 @@
 ---
 title: "How to get started"
-bg: white
-color: blue
+bg: blue
+color: white
 style: center
 ---
 
