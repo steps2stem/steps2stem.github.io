@@ -2,7 +2,7 @@
 title: "Role Models"
 bg: turquoise
 color: white
-style: center
+style: left
 ---
 
 # Role Models
