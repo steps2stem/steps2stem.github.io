@@ -8,8 +8,9 @@
 #mainwrapper .box {
 	cursor: pointer;
 	height: 182px;
-	float: left;
-	margin: 5px;
+	/*float: left;*/
+  display: inline-block;
+	margin: 25px;
 	position: relative;
 	overflow: hidden;
 	width: 200px;

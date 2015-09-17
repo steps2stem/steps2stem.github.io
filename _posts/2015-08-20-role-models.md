@@ -10,6 +10,51 @@ style: left
 <div id="mainwrapper">
 <!-- Image Caption 1 -->
 <div id="box-1" class="box">
+<img id="image-1" src="img/ada_lovelace.jpg"/>
+    <span class="caption fade-caption">
+      <h3>Ada Lovelace</h3>
+      <p>
+      </p>
+
+    </span>
+</div>
+<div id="box-1" class="box">
+<img id="image-1" src="img/marie_curie.jpg"/>
+    <span class="caption fade-caption">
+      <h3>Marie Curie</h3>
+      <p>
+      </p>
+
+    </span>
+</div>
+<div id="box-1" class="box">
+<img id="image-1" src="img/esther_lederberg.jpg"/>
+    <span class="caption fade-caption">
+      <h3>Esther Lederberg</h3>
+      <p>
+      </p>
+
+    </span>
+</div>
+<div id="box-1" class="box">
+<img id="image-1" src="img/rosalind_franklin.jpg"/>
+    <span class="caption fade-caption">
+      <h3>Rosalind Franklin</h3>
+      <p>
+      </p>
+
+    </span>
+</div>
+<div id="box-1" class="box">
+<img id="image-1" src="img/henrietta_leavitt.jpg"/>
+    <span class="caption fade-caption">
+      <h3>Henrietta Leavitt</h3>
+      <p>
+      </p>
+
+    </span>
+</div>
+<div id="box-1" class="box">
 <img id="image-1" src="img/hedy_lamar.jpg"/>
     <span class="caption fade-caption">
       <h3>Hedy Lamar</h3>
@@ -17,53 +62,6 @@ style: left
       </p>
 
     </span>
-</div>
-<!-- Image Caption 2 -->
-<div id="box-2" class="box">
-  <img id="image-2" src="images/2.jpg"/>
-  <span class="caption fade-caption">
-    <h3>Full Caption</h3>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-    sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-  </span>
-</div>
-<!-- Image Caption 3 -->
-<div id="box-3" class="box">
-<img id="image-3" src="images/3.jpg"/>
-<span class="caption fade-caption">
-  <h3>Fade Caption</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-  sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-</span>
-</div>
-<!-- Image Caption 4 -->
-<div id="box-4" class="box">
-<img id="image-4" src="images/4.jpg"/>
-<span class="caption fade-caption">
-  <h3>Slide Caption</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-  sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-</span>
-</div>
-<!-- Image Caption 5 -->
-<div id="box-5" class="box">
-<div class="rotate">
-<img id="image-5" src="images/5.jpg"/>
-<span class="caption fade-caption">
-  <h3>This is rotate caption</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-  sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-</span>
-</div>
-</div>
-<!-- Image Caption 6 -->
-<div id="box-6" class="box">
-<img id="image-6" src="images/6.jpg"/>
-<span class="caption fade-caption">
-  <h3>Scale Caption</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-  sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-</span>
 </div>
 </div>
 
