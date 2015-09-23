@@ -7,6 +7,8 @@ style: left
 
 # Role Models
 
+Take a look at the ladies down below who contributed to science, tech, engineering and math in times when it was really hard to be a woman in those fields. They performed pioneering work, both as scientists and as some of the first women in their professions, often getting paid less than their male colleagues, getting passed over for awards, and not receiving credit for their work. Click on their links if you'd like to learn more about them, and use them as inspiration for starting your own STEM career and advocating for yourself in your field. 
+
 <div id="mainwrapper">
 <!-- Image Caption 1 -->
 <div id="box-1" class="box">
