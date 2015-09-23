@@ -7,7 +7,7 @@ style: left
 
 # Role Models
 
-Take a look at the ladies down below who contributed to science, tech, engineering and math in times when it was really hard to be a woman in those fields. They performed pioneering work, both as scientists and as some of the first women in their professions, often getting paid less than their male colleagues, getting passed over for awards, and not receiving credit for their work. Click on their links if you'd like to learn more about them, and use them as inspiration for starting your own STEM career and advocating for yourself in your field. 
+Take a look at the ladies down below who contributed to science, tech, engineering and math in times when it was really hard to be a woman in those fields. They performed pioneering work, both as scientists and as some of the first women in their professions, often getting paid less than their male colleagues, getting passed over for awards, and not receiving credit for their work. These are just a handful of the millions of women who have contributed to science, past and present, and we hope this encourages you to explore further. Click on their links if you'd like to learn more about them, and use them as inspiration for starting your own STEM career and advocating for yourself in your field. 
 
 <div id="mainwrapper">
 <!-- Image Caption 1 -->
@@ -67,16 +67,16 @@ Take a look at the ladies down below who contributed to science, tech, engineeri
 </div>
 </div>
 
-- [Ada Lovelace][ada]: A mathematician known as the mother of scientific computing.
+- [Ada Lovelace][ada]: Daughter of the famous poet Lord Byron, she chose to become a mathematician and later became known as the mother of scientific computing.
 - [Marie Curie][marie]: Physicist famous for work on radioactivity, two-time
-    Nobel Prize Winner, developed X-ray technology.
-- [Esther Lederberg][esther]: Microbiologist, did important work in leading to the
-    understanding of how genes work.
-- [Rosalind Franklin][rosalind]: Contributed key images a research to defining the structure
-    of DNA.
-- [Henrietta Leavitt][henrietta]: Astronomer, developed the cepheid variable
-    period-luminosity relationship, suffered from severe deafness.
-- [Hedy Lamar][hedy]: Electrical Engineer, inventor, and movie star.
+    Nobel Prize Winner, developed X-ray technology. Contributed key concepts that are essential for nuclear phycis processes, such as clean power generation. 
+- [Esther Lederberg][esther]: Microbiologist who conducted important work that lead to the
+    understanding of how genes work. Her name was consistently left off of papers and projects to which she had contributed, with much of the credit going to her husband, who did not perform the experiemnts or make the conclusions. 
+- [Rosalind Franklin][rosalind]: Contributed key images in research that defined the structure
+    of DNA. Was not mentioned when only her male colleaugues received the Nobel Prize even though she had performed the essential imaging experiments. 
+- [Henrietta Leavitt][henrietta]: Astronomer, developed the 'cepheid variable
+    period-luminosity' relationship, a key concept in understanding the nature of outer space. She was also severely deaf, but didn't let that stop her.
+- [Hedy Lamar][hedy]: Electrical engineer and movie star. Invented technology that was key to interecepting secret Nazi messages and which also provided a foundation for the (much later) development of technologies like cell service and wi-fi. She did this while starring in several major Hollywood blockbusters during Hollywood's 'Golden Age'.  
 
 [ada]: https://www.sdsc.edu/ScienceWomen/lovelace.html
 [marie]: http://www.biography.com/people/marie-curie-9263538
