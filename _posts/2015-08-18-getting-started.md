@@ -2,7 +2,7 @@
 title: "Getting Started"
 bg: navy
 color: white
-style: center
+style: left
 ---
 
 # Getting Started

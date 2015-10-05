@@ -2,7 +2,7 @@
 title: "Resources"
 bg: blue
 color: white
-style: center
+style: left
 ---
 
 # Resources
