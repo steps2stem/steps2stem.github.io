@@ -39,7 +39,7 @@ This website was created as a result of the <a href="http://www.eyhn.org/">Expan
     </span>
 </div>
 <div id="box-1" class="box">
-<img id="image-1" src="img/presenters/maren.jpg"/>
+<img id="image-1" src="img/presenters/maren_cropped.jpg"/>
     <span class="caption fade-caption">
       <h3>Maren Hunsberger</h3>
       <p>
